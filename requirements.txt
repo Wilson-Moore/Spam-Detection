@@ -1,9 +1,12 @@
 jupyterlab
+streamlit
+import-ipynb
 matplotlib
+seaborn
 nltk
 numpy
 pandas
 scikit-learn
-seaborn
 torch
+xgboost
 fasttext
